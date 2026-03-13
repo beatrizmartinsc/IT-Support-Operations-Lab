@@ -43,4 +43,4 @@ Removed and re-added Exchange account on iPhone. Full sync restored. Advised use
 
 ## Screenshot
 
-![Ticket 1 - Resolved](ticket-resolved.png)
+![Ticket 1 - Resolved](screenshot/ticket-resolved.png)
