@@ -44,4 +44,4 @@ User notified of escalation via customer-visible comment with ticket reference n
 
 ## Screenshot
 
-![Ticket 5 - Escalated](ticket-in-progress.png)
+![Ticket 5 - Escalated](screenshot/ticket-in-progress.png)
