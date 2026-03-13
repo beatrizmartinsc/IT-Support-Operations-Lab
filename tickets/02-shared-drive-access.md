@@ -44,4 +44,4 @@ Re-added to SG-Finance-Drive in ADUC. Access restored after logoff/logon. AD adm
 
 ## Screenshot
 
-![Ticket 2 - Resolved](ticket-resolved2.png)
+![Ticket 2 - Resolved](screenshot/ticket-resolved2.png)
