@@ -1,0 +1,47 @@
+# Ticket 2 — Shared Drive Access Denied
+
+| Field | Value |
+|-------|-------|
+| **Incident** | INC0010008 |
+| **Caller** | David Loo (Finance Department) |
+| **Channel** | Chat |
+| **Category** | Software > Operating System |
+| **Impact** | 3 — Low (single user) |
+| **Urgency** | 2 — Medium (end-of-month reports due) |
+| **Priority** | P4 — Low |
+| **State** | Resolved |
+
+---
+
+## Scenario
+
+User receiving "Access Denied" error when trying to access \\fileserver\finance. Access was working last week. No role change. Team members unaffected.
+
+---
+
+## Troubleshooting
+
+- Checked Active Directory group membership for the user
+- User was NOT a member of SG-Finance-Drive security group
+- Confirmed with Finance manager that user should have access
+- Identified likely cause: accidental removal during recent group membership cleanup
+- Re-added user to SG-Finance-Drive in ADUC
+- Advised user to log off and log back on to refresh group membership token
+
+---
+
+## Root Cause
+
+User accidentally removed from security group during a recent AD cleanup.
+
+---
+
+## Resolution
+
+Re-added to SG-Finance-Drive in ADUC. Access restored after logoff/logon. AD admin team notified to review cleanup process.
+
+---
+
+## Screenshot
+
+![Ticket 2 - Resolved](ticket-resolved2.png)
