@@ -16,11 +16,11 @@ Five realistic Service Desk scenarios completed in a ServiceNow Personal Develop
 
 | # | Ticket | Type | Priority | Status |
 |---|--------|------|----------|--------|
-| 1 | [Outlook Mobile Sync Failure](tickets/01-email-sync/) | Incident | P4 — Low | Resolved |
-| 2 | [Shared Drive Access Denied](tickets/02-shared-drive-access/) | Incident | P4 — Low | Resolved |
-| 3 | [Network Printer Failure (Multiple Users)](tickets/03-printer-failure/) | Incident | P3 — Moderate | Resolved |
-| 4 | [New Hire Onboarding — James Park](tickets/04-new-hire-onboarding/) | Service Request | P5 — Planning | Resolved |
-| 5 | [VPN Connection Failure (Escalated to L2)](tickets/05-vpn-escalation/) | Incident | P3 — Moderate | Escalated |
+| 1 | [Outlook Mobile Sync Failure](tickets/01-email-sync.md) | Incident | P4 — Low | Resolved |
+| 2 | [Shared Drive Access Denied](tickets/02-shared-drive-access.md) | Incident | P4 — Low | Resolved |
+| 3 | [Network Printer Failure (Multiple Users)](tickets/03-printer-failure.md) | Incident | P3 — Moderate | Resolved |
+| 4 | [New Hire Onboarding — James Park](tickets/04-new-hire-onboarding.md) | Service Request | P5 — Planning | Resolved |
+| 5 | [VPN Connection Failure (Escalated to L2)](tickets/05-vpn-escalation.md) | Incident | P3 — Moderate | Escalated |
 
 ---
 
