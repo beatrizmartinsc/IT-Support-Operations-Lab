@@ -42,4 +42,4 @@ Full onboarding completed. All systems configured, tested, and confirmed working
 
 ## Screenshot
 
-![Ticket 4 - Resolved](ticket-resolved4.png)
+![Ticket 4 - Resolved](screenshot/ticket-resolved4.png)
